@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/50070223/156890000-bf592624-171d-4d72-852f-22cb072a4c21.png" align="right" width="25%"/>
 
 
-I'm a software developer Mobile Developer ( Android Native & Flutter ) with Kotlin, Java and Dart And I'm a Graduate of Computer Science Cairo Universit and Since 2019 I have been working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment
+I'm a Software Mobile Developer ( Android Native & Flutter ) with Kotlin, Java and Dart And I'm a Graduate of Computer Science Cairo Universit and Since 2019 I have been working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment
 
 - 🔭 I'm a software developer [@PerfectSolution] in Nasr City, Cairo
 - 🔍 I have 3 live apps: 
