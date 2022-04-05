@@ -12,9 +12,11 @@ I'm a Software Mobile Developer ( Android Native & Flutter ) with Kotlin, Java a
 
 - 🔭 I'm a software developer [@PerfectSolution] in Nasr City, Cairo
 - 🔍 I have 3 live apps: 
+  - [Shaghaf E-commercy](https://play.google.com/store/apps/details?id=com.perfect.shaghaf2)
+  - [Elherafyeen](https://play.google.com/store/apps/details?id=com.elherafyeen.elherafyeen)
   - [Hiten E-commercy](https://play.google.com/store/apps/details?id=com.hiten)
   - [Islamiat](https://play.google.com/store/apps/details?id=com.perfect.islamyat)
-  - [Shaghaf E-commercy](https://play.google.com/store/apps/details?id=com.shaghaf)
+  
 
 - 💻 I'm Proud of my personal App (front -Mobile- and backend -Firebase-  only by me)
   - [Fashionista Social](https://www.youtube.com/watch?v=nTaJYhWHgw8&ab_channel=mahmoudabdullah)
