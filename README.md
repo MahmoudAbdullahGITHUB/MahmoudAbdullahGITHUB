@@ -11,11 +11,11 @@
 I'm a Software Mobile Developer ( Android Native & Flutter ) with Kotlin, Java and Dart And I'm a Graduate of Computer Science Cairo Universit and Since 2019 I have been working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment
 
 - 🔭 I'm a software developer [@PerfectSolution] in Nasr City, Cairo
-- 🔍 I have 3 live apps: 
-  - [Shaghaf E-commercy](https://play.google.com/store/apps/details?id=com.perfect.shaghaf2)
+- 🔍 I have some live apps: 
+  - [WinjiGo ParentKit](https://play.google.com/store/apps/details?id=com.itworx.winjigo.parent)
+  - [EJS Student Kit](https://play.google.com/store/apps/details?id=com.itworx.winjigostudentejs)
   - [Elherafyeen](https://play.google.com/store/apps/details?id=com.elherafyeen.elherafyeen)
-  - [Hiten E-commercy](https://play.google.com/store/apps/details?id=com.hiten)
-  - [Islamiat](https://play.google.com/store/apps/details?id=com.perfect.islamyat)
+  - [EJS Teacher Kit](https://play.google.com/store/apps/details?id=com.itworx.winjigoteacher_ejs)
   
 
 - 💻 I'm Proud of my personal App (front -Mobile- and backend -Firebase-  only by me)
